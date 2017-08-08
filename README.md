@@ -1,5 +1,5 @@
 # CMIS-440-Project-4
-#### Read data from a text file using a Java Bean
+#### Read data from a text file using a Java Bean.
 
 Read a line of data from a csv file. Update the output every second.
 
