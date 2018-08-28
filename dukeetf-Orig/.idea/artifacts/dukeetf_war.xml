@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="dukeetf:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="dukeetf.war">
-      <element id="artifact" artifact-name="dukeetf:war exploded" />
-    </root>
-  </artifact>
-</component>
